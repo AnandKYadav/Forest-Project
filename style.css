@@ -1,0 +1,85 @@
+body {
+    /* width: 100px;
+    height: 199px; */
+       
+    background-image: url(images/marc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+
+.decoration{
+    border: 2px solid rgb(39, 155, 39);
+    margin: 2%;
+    border-radius: 4rem;
+}
+
+.container {
+
+     /* max-width: 34rem;
+    color: brown;
+    background-color: rgba(59, 161, 86, 0.5);
+    text-align: center;
+    margin: 5% auto;
+    padding: 3% 0;
+    border: .7rem solid :rgba(0, 92, 0);
+    border-radius: 3rem;
+    box-shadow: 3px 4.3px 4px black;  */
+      
+    
+   
+
+
+
+        text-align: center;
+        position: fixed;
+         top: 40%;
+        left: 50%;       
+        transform: translate(-50%, -50%);       
+        color:rgb(165,42,42);
+        height: 300px;
+        width: 400px;
+        border: 15px solid green;
+        border-radius: 30px;
+        padding: 50px 0;
+        margin: 20px auto;
+        box-shadow: 3px 4.3px 4px black;     
+       background-color: rgba(59, 161, 86, 0.5);;
+    text-align: center;
+  
+      
+}
+
+.last {
+    margin-top: 2%;
+    font-size: 3rem;
+    color: rgb(90,130,216);
+    text-shadow: 2px 3px 5px black;
+}
+.bamboo {
+margin-top: 4%;
+height: 100px;
+width: 100px;
+max-width: 100%;
+/* background-color: bisque; */
+/* background-image: url("images/china-bamboo.jpg") */
+border-radius : 30%;
+box-shadow: 2px 3px 6px black;
+}
+
+.middle{
+    text-decoration: underline;
+    font-weight: 600;
+    text-shadow: 2px 3px 6px black;
+
+}
+
+
+.title{
+    text-shadow: 2px 3px 6px black;
+        /* top: 60%;
+
+        
+        margin: 30px;
+        */
+} 
